@@ -7,6 +7,9 @@
 ## Dataset
 <br> [Pattern Analysis, Statistical Modeling and Computational Learning, VOC 2011](http://host.robots.ox.ac.uk/pascal/VOC/voc2011/index.html)
 
+## Useful Tools
+#### [mxnet](https://beta.mxnet.io/guide/crash-course/index.html)
+
 ## Image Classification
 ## Object Detection
 ## Semantic Segmentation
